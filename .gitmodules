@@ -8,5 +8,5 @@
         branch = master
 [submodule "android-image-flashing-template"]
 	path = android-image-flashing-template
-	url = https://github.com/droidian-releng/android-image-flashing-template.git
+	url = https://github.com/droidian-onclite/android-image-flashing-template.git
         branch = master

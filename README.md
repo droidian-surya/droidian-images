@@ -1,4 +1,4 @@
-Droidian on Xiaomi Redmi 7 (onclite)
+Droidian on Poco X3/NFC (surya)
 ========
 
 Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based distribution for mobile devices. The goal of Droidian is to be able to run Mobian on Android phones.
@@ -8,7 +8,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 # Default password: 1234
 
 ## Installation
- * Download the latest build here: https://github.com/droidian-onclite/droidian-images/releases
+ * Download the latest build here: https://github.com/droidian-surya/droidian-images/releases
  * Unpack the zip file
  * Run the flash_all.sh script:
     <pre><code>./flash_all.sh/code></pre>
@@ -16,8 +16,10 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
  * Support group: https://t.me/DroidianLinux
 
 ## Bugs and workarounds
-* Brightness is currently only adjustable via the applet on the appdrawer
 * Offline charging is broken.
 * GPS does not work.
 * Fingerprint does not work.
 * Only one sim can be used.
+* Camera works on Waydroid but not on the system itself. So it is usable but every time user wants to use it they have to start Waydroid.
+* Currently speaker does not work but bluetooth earbuds/earphones work.
+* Booting times are currently within 5-10 minutes.

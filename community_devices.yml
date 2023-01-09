@@ -1,15 +1,15 @@
 # This file has been generated automatically by droidian-new-device
 
-# xiaomi onclite
-xiaomi_onclite:
+# xiaomi surya
+xiaomi_surya:
   type: image
   arch: arm64
   edition: phosh
   variant: phone
-  apilevel: 28
+  apilevel: 29
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-onclite
-    - adaptation-onclite-configs
-    - yad
+    - adaptation-droidian-surya
+    - adaptation-surya-configs
+    - droidian-sysfs-torch

@@ -17,3 +17,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 
 ## Bugs and workarounds
 * Brightness is currently only adjustable via the applet on the appdrawer
+* Offline charging is broken.
+* GPS does not work.
+* Fingerprint does not work.
+* Only one sim can be used.

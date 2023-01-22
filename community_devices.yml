@@ -13,3 +13,4 @@ xiaomi_surya:
     - adaptation-droidian-surya
     - adaptation-surya-configs
     - droidian-sysfs-torch
+    - qtwayland5

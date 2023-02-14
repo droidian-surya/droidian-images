@@ -13,4 +13,10 @@ xiaomi_surya:
     - adaptation-droidian-surya
     - adaptation-surya-configs
     - droidian-sysfs-torch
+    - linux-bootimage-4.14.180-perf-xiaomi-surya
+    - linux-bootimage-xiaomi-surya
+    - linux-headers-4.14.180-perf-xiaomi-surya
+    - linux-headers-xiaomi-surya
+    - linux-image-4.14.180-perf-xiaomi-surya
+    - linux-image-xiaomi-surya
     - qtwayland5
